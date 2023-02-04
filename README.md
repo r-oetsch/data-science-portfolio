@@ -1,10 +1,9 @@
-# data-science-portfolio (under construction)
-
 ## Abschlussprojekt Data Science - Analyse von Gebrauchtwagenkäufen
 Ziel: Vorhersage von "Bad Buys", d.h. des Ankaufs mängelbehafteter Fahrzeuge. Klassifikationsproblem mit EDA, Aufbau einer Datenpipeline und Optimierung von ML-Algorithmen (logistische Regression, Entscheidungsbaum, Random Forest, SVM). Das optimale Modell ist ein Random Forest mit einer Tiefe von 28 Knoten und mindestens drei Samples pro Blatt.
 
 Jupyter-Notebook:
 [dontgetkicked.zip](https://github.com/r-oetsch/data-science-portfolio/files/10609222/dontgetkicked.zip)
+
 Daten von Kaggle:
 https://www.kaggle.com/competitions/DontGetKicked/overview
 
